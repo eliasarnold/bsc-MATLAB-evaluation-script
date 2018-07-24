@@ -1,1 +1,1 @@
-The Fitting Process generates a posterior file for every method eg. "posteriors_EGGER.txt". Copy every line of all these files to one single file named "posteriors.txt" and run "read.m".
+The Fitting Process generates a posterior file for every method eg. "posteriors_EGGER.txt". Copy every line of all these files to one single file named "posteriors.txt" and run "read.m". It reads "posteriosrs.txt" and generates a data file: "image_data/posterior_matrix.mat".

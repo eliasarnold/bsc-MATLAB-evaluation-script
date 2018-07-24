@@ -1,1 +1,1 @@
-When the Fitting Process has ended, it generates a ".rps"-File for every iteration in the "rps" folder. Copy all these files  into this directory.
+When the Fitting Process has ended, it generates a ".rps"-File for every iteration and every method eg. "test0_EGGER_0.rps" in the "rps" folder. Copy all these files into this directory.
